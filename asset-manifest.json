@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/doors-shop/static/css/main.b45710ed.css",
+    "main.js": "/doors-shop/static/js/main.bab58deb.js",
+    "static/media/header.png": "/doors-shop/static/media/header.b1dda2fed0961b884cfd.png",
+    "index.html": "/doors-shop/index.html",
+    "main.b45710ed.css.map": "/doors-shop/static/css/main.b45710ed.css.map",
+    "main.bab58deb.js.map": "/doors-shop/static/js/main.bab58deb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b45710ed.css",
+    "static/js/main.bab58deb.js"
+  ]
+}
